@@ -2,6 +2,8 @@
 2023 부산소마고 여름해커톤
 
 [준서의 회고록](https://velog.io/@baeian/2023BSSMSummerHackathonMemoirs)
+<br>
+[포트폴리오](https://www.behance.net/gallery/176474703/-Preview-your-decorated-room)
 
 <br>
 
